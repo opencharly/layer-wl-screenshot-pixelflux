@@ -45,7 +45,7 @@ wl-screenshot-pixelflux-skill:
             
             ```yaml
             require:
-              - '@github.com/opencharly/pod-selkies:vTAG'
+              - '@github.com/opencharly/pod-selkies'
             ```
             
             No RPM packages — uses the capture bridge provided by the selkies candy.
