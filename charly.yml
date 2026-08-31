@@ -1,7 +1,7 @@
 version: 2026.240.1943
 wl-screenshot-pixelflux:
     candy:
-        version: 2026.243.0930
+        version: 2026.243.0931
         description: |
             Desktop screenshot capture via the selkies pixelflux pipeline
             Installs the pixelflux-screenshot wrapper script under ~/.local/bin,
@@ -45,7 +45,7 @@ wl-screenshot-pixelflux-skill:
             
             ```yaml
             require:
-              - '@github.com/opencharly/pod-selkies:v2026.243.0720'
+              - '@github.com/opencharly/pod-selkies:vTAG'
             ```
             
             No RPM packages — uses the capture bridge provided by the selkies candy.
