@@ -8,7 +8,7 @@ wl-screenshot-pixelflux:
             which drives the selkies pixelflux capture pipeline to grab a desktop
             frame. Verifiable: the wrapper script is installed and executable.
         require:
-            - '@github.com/opencharly/pod-selkies:v2026.243.1737'
+            - '@github.com/opencharly/pod-selkies:v2026.246.2210'
         plan:
             - run: mkdir=${HOME}/.local/bin
               mkdir: "${HOME}/.local/bin"
