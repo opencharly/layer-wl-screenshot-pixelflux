@@ -1,7 +1,5 @@
-version: 2026.240.1943
 wl-screenshot-pixelflux:
     candy:
-        version: 2026.243.0931
         description: |
             Desktop screenshot capture via the selkies pixelflux pipeline
             Installs the pixelflux-screenshot wrapper script under ~/.local/bin,
