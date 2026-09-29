@@ -22,7 +22,9 @@ preferred `wl: screenshot` path on `selkies-desktop`.
 ## How to use it
 
 Compose the layer by pinning this repo in a box's `candy:` list — typically
-transitively through the `selkies-desktop` metalayer:
+transitively through the `selkies-desktop` metalayer. The named entity is a box:
+its `candy:` value is the box BODY (holding `base:` and the nested composition
+`candy:` list):
 
 ```yaml
 my-desktop-box:
